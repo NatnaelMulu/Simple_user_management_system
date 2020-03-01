@@ -1,0 +1,2 @@
+rootProject.name='Simple_user_management_system'
+include ':app'
